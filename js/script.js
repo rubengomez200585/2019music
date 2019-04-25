@@ -1,3 +1,4 @@
+import air from "./AIRAliases.js";
 /* Author: Eduardo Ludi */
 //window.nativeWindow.stage.quality = 'BEST';
 //window.nativeWindow.stage.displayState = runtime.flash.display.StageDisplayState.FULL_SCREEN_INTERACTIVE;
